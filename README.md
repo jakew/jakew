@@ -3,7 +3,7 @@
 Hey, there!
 
 I'm Jake. I've been programming since 2004, professionally since 2014. I have an
-Honour's Bachelor of Science in Computer Science.
+Honours Bachelor of Science in Computer Science.
 
 Since 2018, I mostly program in Go, and things related to Docker, containers and 
 Kubernetes, though I often mess around with Swift and iOS things.
